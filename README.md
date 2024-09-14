@@ -1,4 +1,4 @@
-# binary_classification_comparing_5_models
-Final project of Artificial Intelligence Driven Decision Making.
-To apply transfer traning for binary classification task with a small dataset, the architectures of various models are discussed, to better understand their efficiency and design decisions behind them. Then an experiment is conducted and the results are analysed.  
-
+# Binary Classification: Comparing 6 Models
+Final project for Artificial Intelligence-Driven Decision Making.
+To apply transfer learning for a binary classification task with a small dataset, various model architectures are discussed to understand their efficiency and the design decisions behind them. An experiment is conducted, and the results are analyzed.
+The paper is available upon request.
